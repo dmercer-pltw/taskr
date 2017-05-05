@@ -1,2 +1,0 @@
-# taskr
-Sample Project Tracker
