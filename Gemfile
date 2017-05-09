@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 gem "twitter-bootstrap-rails"
 gem "font-awesome-rails"
 gem 'simple_form'
+gem 'devise', git: 'https://github.com/plataformatec/devise.git', branch: 'master'
 
 
 # Use Redis adapter to run Action Cable in production
